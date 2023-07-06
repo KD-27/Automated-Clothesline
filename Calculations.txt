@@ -28,3 +28,5 @@ P = 35.904 N
 r = 0. 06 m
 T = 35.904 × 0.06 = 2.154 Nm
 
+T is the torque required by the motor
+
